@@ -16,7 +16,7 @@ Tutorial Problems:
 |                |              |2. Add two numbers entered by user. 
 |                |              |3. Find area of a rectangle.  
 |                |              |
-|    02          |    C         |1. Swap two numbers. 
+|    02          |    C         |1. Swap two numbers: a. Using extra variable b. Without using extra variable.
 |                |              |2. Check if a number is even or odd.  
 |                |              |3. Simple calculator (+, –, ×, ÷) using if-else.
 |                |              | 
