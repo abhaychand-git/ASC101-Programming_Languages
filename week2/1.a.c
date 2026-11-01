@@ -1,4 +1,4 @@
-// 1. Swap two numbers using extra variable.
+// 1.a Swap two numbers using extra variable.
 #include<stdio.h>
 int main(){
 
