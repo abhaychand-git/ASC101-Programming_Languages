@@ -5,6 +5,7 @@
 #Solution:
 
 #Formula Used: BMI = weight/(height*2)
+
 def main():
     weight = int(input("Enter Your Weight (in Kg): "))
     height = int(input("Enter Your Height (in m): "))
