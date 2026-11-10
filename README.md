@@ -52,7 +52,9 @@ Tutorial Problems:
 |                |              |2. Write a C program to perform basic string operations such as finding string length, copying and concatenation. 
 |                |              |
 |    11          |    Py        |1. Hello World in Python.
-|                |              |2. BMI calculator. 3.Temperature converter (°C ↔ °F). Compare C vs Python syntax.    
+|                |              |2. BMI calculator.
+|                |              |3.Temperature converter (°C ↔ °F).
+|                |              |Theory:  Compare C vs Python syntax.    
 |                |              |
 |    12          |    Py        |1. Grade calculator in Python. 
 |                |              |2. Fibonacci using Python loop.
